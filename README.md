@@ -1,5 +1,6 @@
 # Zest-Ware
 Restaurant Automation: Management
+
 The Zestware Manager Portal is a desktop website portal
 which makes the tasks of a restaurant manager simpler.
 
